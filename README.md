@@ -1,5 +1,7 @@
 # cpp_modules
 
+This project helps to understand the OOP principles using C++ language
+
 ## module00
 C++ syntax, Classes, OOP
 ## module01
